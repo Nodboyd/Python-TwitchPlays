@@ -39,7 +39,7 @@ Updates are going to be fewer now. This is open source so feel free to clone it 
 - If You Appreciate This Consider Following me on Twitch: https://www.twitch.tv/henryfundenberger
 - <br/>
 - <br/>
-- Special Shoutouts to CountJoshula for making me interested in this project agian => twitch.tv/CountJoshula
+- Special Shoutouts to CountJoshula for making me interested in this project agian => https://twitch.tv/CountJoshula
 
 
 
