@@ -3,9 +3,9 @@
 ***NEWEST VERSION*** <br/>
 Last Updated 1/12/2022
 <br/>
-I've had a new deisre to work on this project again, i'm hoping to understand twitches API and make this so much better
-And potentially work in even more programming languages such as JS and C#
-If I get those working then this bot will be even more useful!
+I've had a new deisre to work on this project again, i'm hoping to understand twitches API and make this so much better<br/>
+And potentially work in even more programming languages such as JS and C#<br/>
+If I get those working then this bot will be even more useful!<br/>
 <br/>
 ***TUTORIAL LINKS***
 <br/>
