@@ -37,6 +37,9 @@ Updates are going to be fewer now. This is open source so feel free to clone it 
 - If You Want to Demonstrate this Code in a Video Please Give Me Proper Creds :) that would be nice of you!
 <br/>
 - If You Appreciate This Consider Following me on Twitch: https://www.twitch.tv/henryfundenberger
+- <br/>
+- <br/>
+- Special Shoutouts to CountJoshula for making me interested in this project agian => twitch.tv/CountJoshula
 
 
 
