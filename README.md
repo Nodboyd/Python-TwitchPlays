@@ -1,4 +1,4 @@
-# TwitchController-v1.3 aka Twitch Plays Bot
+# TwitchController-v1.3.1 The Revival Update aka Twitch Plays Bot
 
 ***NEWEST VERSION*** <br/>
 Last Updated 1/12/2022
