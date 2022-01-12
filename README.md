@@ -1,7 +1,11 @@
 # TwitchController-v1.3 aka Twitch Plays Bot
 
 ***NEWEST VERSION*** <br/>
-The newest update made on 10/2/2020 makes the program run much more effiecntly doing multiple and all commands at once instead of doing one then waiting. 
+Last Updated 1/12/2022
+<br/>
+I've had a new deisre to work on this project again, i'm hoping to understand twitches API and make this so much better
+And potentially work in even more programming languages such as JS and C#
+If I get those working then this bot will be even more useful!
 <br/>
 ***TUTORIAL LINKS***
 <br/>
