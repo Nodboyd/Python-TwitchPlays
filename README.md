@@ -7,12 +7,7 @@ I've had a new deisre to work on this project again, i'm hoping to understand tw
 And potentially work in even more programming languages such as JS and C#<br/>
 If I get those working then this bot will be even more useful!<br/>
 <br/>
-***TUTORIAL LINKS***
-<br/>
-How to Use The Bot: https://youtu.be/y1zJDo4Hp5Y?t=1
-<br/>
-How to install pip: https://youtu.be/JT6enP35ORo
-<br/>
+
 
 Used to allow your computer to receive your twitch chat, to control your keyboard or to create your own twitch bot!
 
@@ -34,13 +29,4 @@ Known Errors: Did You Find an Error? Report it Here -> https://forms.gle/B5hKGd3
 <br />
 Updates are going to be fewer now. This is open source so feel free to clone it and change it to be what you need!
 <br />
-- If You Want to Demonstrate this Code in a Video Please Give Me Proper Creds :) that would be nice of you!
-<br/>
-- If You Appreciate This Consider Following me on Twitch: https://www.twitch.tv/FakeHenryF
-- <br/>
-- <br/>
-- Special Shoutouts to CountJoshula for making me interested in this project agian => https://twitch.tv/CountJoshula
-
-
-
 
